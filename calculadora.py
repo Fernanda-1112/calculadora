@@ -1,7 +1,7 @@
 num1 = int(input("numero 1: ")); 
 num2 = int(input("numero 2: "));
 
-valor = 0
+valor = 0;
 
 while True:
     print("-----------------");
